@@ -1,3 +1,6 @@
+# The main CMakeLists file
+
+
 # Beginning comment with '#'
 
 # The minimum version
